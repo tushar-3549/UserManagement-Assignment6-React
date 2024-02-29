@@ -1,3 +1,27 @@
+# User Management System: 
+![image](https://github.com/tushar-3549/UserManagement-Assignment6-React/assets/99356217/206cac11-c8e0-4cc2-8823-adbec4f1f5c1)
+
+## Statements: 
+
+1. Make a user list page where I want to see all the “Users” in a card view.
+a. Loading... before the page view
+b. Each card will show the following information about the users:
+(username)
+i. Avatar
+ii. First Name
+iii. Last Name
+iv. Email
+v. Address (Street, Suite, City)
+vi. Company Name
+
+2. Add a search input field to the top of the list. If I type here, it will search based on the
+username.
+4. Add a select input field to the top of the list to sort the users with the following options:
+a. Sort by name
+b. Sort by email
+c. Sort by Company name
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
