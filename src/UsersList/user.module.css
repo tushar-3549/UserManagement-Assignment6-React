@@ -1,0 +1,31 @@
+
+.article {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    transition: box-shadow 0.3s ease; 
+  }
+  
+  .article:hover {
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5); 
+    cursor: pointer;
+  }
+  
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .details {
+    flex: 1;
+  }
+  
+  .details p {
+    margin-bottom: 10px;
+  }
+  
+  .details p:last-child {
+    margin-bottom: 0;
+  }
